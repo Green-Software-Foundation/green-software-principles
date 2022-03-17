@@ -30,9 +30,9 @@ The Paris Climate Agreement is an international treaty agreed in 2015 by 196 par
 
 The agreement is reviewed every 5 years, and also mobilises finance to developing nations in order to mitigate impacts on climate change as well as prepare for and adapt to environmental impacts caused by climate change. Each party is expected to update its progress through a Nationally Determined Contribution (NDC). The agreement is currently signed by 193 parties.
 
-The temperature increase on the Earth is dependent on the total amount of carbon we have in the atmosphere, not the rate at which we are emitting. To completely halt the rate of temperature increase, we need to stop adding carbon to the atmosphere or achieve net-zero emissions.
+The temperature increase on the Earth is dependent on the total amount of carbonin the atmosphere, not the rate at which we are emitting. To completely halt the rate of temperature increase, we need to stop adding GHGs to the atmosphere or achieve net-zero emissions.
 
-Net-zero means for each gram of carbon we emit we also extract 1 gram, so the overall mass of carbon in the atmosphere remains fixed.
+Net-zero means for each gram of CO<sub>2</sub>-eq we emit we also extract 1 gram, so the overall CO<sub>2</sub>-eq in the atmosphere remains fixed.
 
 ### How is weather related to climate? [Knowledge]
 
