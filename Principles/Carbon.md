@@ -38,22 +38,22 @@ Net-zero means for each gram of carbon we emit we also extract 1 gram, so the ov
 
 Weather refers to the conditions of the atmosphere in a short period of time. Climate refers to the conditions of the atmosphere over long periods of time. Any changes to the long term condition of the atmosphere will also cause changes to the short term conditions of the atmosphere. An obvious comparison is that if the average temperature of the atmosphere increases, the average temperature of the weather in any given season will also increase. However there are myriad factors at play where this climate warming can lead to changes in weather. Some example of measurable impacts changes to weather conditions due to climate change are:
 
-    * Changes to the water cycle including rainfall
-    * Melting of ice
-    * Heating of the land, air, and ocean
-    * Changes in ocean currents, acidity, and salinity
+- Changes to the water cycle including rainfall
+- Melting of ice
+- Heating of the land, air, and ocean
+- Changes in ocean currents, acidity, and salinity
 
-The impacts of these changes may be:
+The impacts of these changes may include:
 
-    * Flooding of coastal areas
-    * Flooding due to increased rainfall
-    * Drought
-    * More frequent extreme weather conditions
-    * Increased risk of wildfire
+- Flooding of coastal areas
+- Flooding due to increased rainfall
+- Drought
+- More frequent extreme weather conditions
+- Increased risk of wildfire
 
-How would you summarise the impact of humans on the climate? [Comprehension]
+### How would you summarise the impact of humans on the climate? [Comprehension]
 
-Industrial human activity is the largest contributor to climate change. The amount of carbon dioxide in the atmosphere is directly proportional to the amount of human activity. The greenhouse effect from these greenhouse gasses contributes to the warming of the atmosphere, and thus the changes to the climate and weather.
+Industrial human activity is the largest contributor to climate change. The amount of carbon dioxide in the atmosphere is directly proportional to the amount of human activity. The greenhouse effect from these greenhouse gasses contributes to the warming of the atmosphere, and thus the changes to the climate and weather. Without intervention these changes will have catastrophic effects on the environment and planet.
 
 ### Do we need green house gases?
 
