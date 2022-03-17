@@ -34,7 +34,11 @@ In order to achieve this, we need to mobilize as a global community. We need to 
 
 To be carbon efficient is to minimize the amount of carbon emitted per unit of work.
 
-TODO: What was agreed in the Paris Climate Agreement? [Knowledge]
+### What was agreed in the Paris Climate Agreement? [Knowledge]
+
+The Paris Climate Agreement is an international treaty agreed in 2015 by 16 parties and the UN to reduce the temperature increase of the Earth. The agreement is to keep the rise in global mean temperature to 2°C compared to 'pre-industrial' levels, with a 'preferable' lower limit of 1.5°C. Pre-industrial refers to a time before the industrial revolution around 1760.
+
+The agreement is reviewed every 5 years, and also mobilises finance to developing nations in order to mitigate imapcts on climate change as well as prepare for and adapt to enivironmental impacts caused by climate change. Each party is expected to update its progress through a Nationally Determined Contribution (NDC). The agreement is currently signed by 193 parties.
 
 TODO: How is weather related to climate? [Knowledge]
 
