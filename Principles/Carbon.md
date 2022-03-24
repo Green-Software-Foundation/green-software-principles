@@ -70,6 +70,16 @@ We also need greenhouses gases in our everyday lives. For example CO<sub>2</sub>
 
 The earth has had many different compositions of greenhouse gases in its history, and natural fluctuation does occur over time (millennia). This is often refereed to as climate change, whereas global warming is separated out as the human influenced factor which has taken place over a very short period of time (decades).
 
-Reference
+## Summary
 
-- V1: https://principles.green/principles/carbon/
+Carbon is often used as a broad term to refer to the impact of our activities on global warming. The term really refers to all greenhouse gases, but the most common of these is carbon dioxide released from burning hydrocarbon fossil fuels for the generation of energy. We can use this knowledge to calculate our individual impact on global warming. It is important to understand our impact on global warming in everything we do in our life an work in order to reduce our impacts. The global community has come together to limit the impact of global warming to 2°C compared to 'pre-industrial' levels, with a 'preferable' lower limit of 1.5°C. This was agreed through the UN IPCC in 2015 in the Paris Climate Agreement.
+
+- Greenhouse gases are a group of gases that trap heat from solar radiation in the Earth's atmosphere.
+- The most common greenhouse gas is carbon dioxide (CO<sub>2</sub>).
+- Greenhouse gases are measured in carbon dioxide equivalent (CO<sub>2</sub>-eq).
+- The COP stands for 'Conference of the Parties'. The COP is an annual event of all parties in the United Nations Framework Convention on Climate Change (UNFCCC).
+- The UN IPCC is the Intergovernmental Panel on Climate Change. It is a body within the United Nations (UN).
+- The Paris Climate Agreement is an international treaty agreed in 2015 by 196 parties and the UN to reduce the temperature increase of the Earth.
+- The agreement is to keep the rise in global mean temperature to 2°C compared to 'pre-industrial' levels, with a 'preferable' lower limit of 1.5°C.
+- Weather refers to the conditions of the atmosphere in a short period of time. Climate refers to the conditions of the atmosphere over long periods of time.
+- Industrial human activity is the largest contributor to climate change.
