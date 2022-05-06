@@ -30,7 +30,7 @@ Most people think electricity is clean. When we plug something into a wall, our 
 
 Since we can draw a direct line from electricity to carbon emissions, electricity can be considered one of the proxies for carbon.
 
-All software, from the applications running on mobile phones to the training of machine learning models running in data centres, consumes electricity in its execution. One of the best ways to reduce electricity consumption and the subsequent emissions of carbon pollution made by software is to make applications more energy efficient.
+All software, from the applications running on mobile phones to the training of machine learning models running in data centres, consumes electricity. One of the best ways to reduce electricity consumption and the subsequent emissions of carbon pollution made by software is to make applications more energy efficient.
 
 The software creators often do not have to bear the burden of their software's electricity, which economists call an externality, i.e. someone else's problem. Green software takes responsibility for its electricity and is architected to consume as little as possible.
 
