@@ -177,9 +177,7 @@ Microsoft announced a project to make Windows Carbon Aware XXX; the initial feat
 
 ## Demand Shaping
 
-Demand shifting is the strategy of moving computation to regions or times when the carbon intensity is l
-
-owest. Demand shaping is a similar strategy. However, instead of moving demand to a different region or time, we shape our computation to match the existing supply.
+Demand shifting is the strategy of moving computation to regions or times when the carbon intensity is lowest. Demand shaping is a similar strategy. However, instead of moving demand to a different region or time, we shape our computation to match the existing supply.
 
 [IMAGE] 
 
