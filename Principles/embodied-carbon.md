@@ -43,7 +43,7 @@ A way to account for embodied carbon is to amortise the carbon over the expected
 
 If we add one more year to the lifespan of our 2019 R640 Dell Server, then the amortised carbon drops from 320kg CO2eq/year to 256 kg CO2eq/year.
 
-Hardware is retired either because it breaks down or struggles to handle modern workloads. The software cannot help with the first. However, if we focus on building applications that can run on older hardware, we can help with the second. Many factors decide whether a cloud infrastructure is a correct fit in today's computing world. Contrarily, there are many use cases where cloud computing is not the right fit (yet). 
+Hardware is retired when it breaks down or struggles to handle modern workloads. Hardware will always break down at some point, but we can use software to build applications that can run on older hardware and extend their lifetime. Many factors decide whether a cloud infrastructure is a correct fit in today's computing world. Contrarily, there are many use cases where cloud computing is not the right fit (yet). 
 
 ## Public Cloud v.s. Private Cloud
 <Image Idea- https://cf-assets.www.cloudflare.com/slt3lc6tev37/2jBaVWKgbOUNLDNw7QJYPh/563316b4290e2919f7510ae59a3ae3ca/public-cloud-vs-private-cloud.svg>
