@@ -1,6 +1,6 @@
-## Carbon
+## Carbon Efficiency
 
-Build applications that are carbon efficient
+Emit the least amount of carbon possible.
 
 <!-- ## Learning Objectives
 
