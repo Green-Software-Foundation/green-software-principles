@@ -1,5 +1,6 @@
-# Embodied Carbon 
-Build applications that are hardware efficient
+# Hardware Efficiency
+
+Use the least amount of embodied carbon possible.
 
 <!-- ## Learning Objectives
 
