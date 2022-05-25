@@ -1,5 +1,7 @@
 # Climate Commitments
 
+Understand the exact mechanism of carbon reduction.
+
 <!-- ## Learning Objectives
 
 * What are neutralizations? [Knowledge]
