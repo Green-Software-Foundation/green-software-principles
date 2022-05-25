@@ -1,5 +1,8 @@
 # Measuring Software
 
+What you can't measure, you can't improve
+
+<!-- 
 ## Learning Objectives
 
 * What are the challenges with calculating carbon emissions for software using the GHG protocol? (open-source/doesn't factor growth/attributional not consequential/emissions fall into different scopes depending on software type/organizational not software boundaries) [Evaluation]
@@ -13,6 +16,8 @@
 * Can you list the step-by-step process quantifying an SCI score? [Comprehension]
 * Can you complete this example SCI calculation? [Synthesis]
 * Given this SCI calculation, would you focus more on energy efficiency or on reducing the amount of hardware the Application uses? [Synthesis]
+
+--> 
 
 ## Measuring software using the Greenhouse Gas protocol
 
