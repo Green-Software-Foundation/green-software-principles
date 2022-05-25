@@ -1,4 +1,6 @@
-# Carbon Intensity of Electricity
+# Carbon Awareness
+
+Do more when the electricity is cleaner and do less when the electricity is dirtier.
 
 <!-- ## Learning Objectives
 
