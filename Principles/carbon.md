@@ -23,11 +23,11 @@ There are lots of different ways to harness energy from our natural environment.
 
 ### Greenhouse gases
 
-Greenhouse gases (GHG) are a group of gases that trap heat from solar radiation in the Earth's atmosphere. These gasses act as a blanket increasing the temperature on the surface of the Earth. This is a natural phenomenon however due to man-made carbon pollution, the global climate is changing much faster than animals and plants can adapt. How human society will adapt is still an open question.
+Greenhouse gases (GHG) are a group of gases that trap heat from solar radiation in the Earth's atmosphere. These gasses act as a blanket increasing the temperature on the surface of the Earth. Due to man-made carbon pollution, the global climate is changing much faster than animals and plants can naturally adapt. How human society will adapt is still an open question.
 
-There are many different GHGs. The most common is carbon dioxide (CO<sub>2</sub>). To make calculations easier we normalize all GHG numbers to carbon dioxide equivalent (CO<sub>2</sub>-eq). Cabon dioxide equivalent (CO<sub>2</sub>-eq) is a way of measuring the impact of gasses that are not CO<sub>2</sub> have on global warming potential (GWP), relative to the impact of carbon dioxide. Different gasses have different GWPs than CO<sub>2</sub> per unit of weight. For example, methane (CH<sub>4</sub>) - a common gaseous hydrocarbon, has a warming effect of 25 times that of CO2, so we say methane has a GWP of 25. CO<sub>2</sub> has a GWP of 1, since it is the gas we are normalising against. We may shorten even further to just 'carbon', which is a term often used to refer to all GHGs.
+There are many different GHGs. The most common is carbon dioxide (CO<sub>2</sub>) but we often refer to all GHGs by just saying 'carbon'. To make calculations easier we normalize all GHG numbers to carbon dioxide equivalent (CO<sub>2</sub>-eq). Cabon dioxide equivalent (CO<sub>2</sub>-eq) is a way of measuring the impact that non-CO<sub>2</sub> gasses have on global warming potential (GWP), relative to the impact of carbon dioxide. CO<sub>2</sub>-eq is most commonly measured in million metric tonnes of carbon dioxide equivalent (MMTCDE). Different gasses have different GWPs than CO<sub>2</sub> per unit of weight. CO<sub>2</sub> has a GWP of 1, since it is the gas we are normalising against. 
 
-Another example is sulphur hexafluoride (SF6), a man-made gas used as an electical insulator, has a GWP of 23,500. This means one metric tonne of SF6 released into the atmosphere is equivalent to 23,500 metric tonnes of CO<sub>2</sub>. CO<sub>2</sub>-eq is most commonly measured in million metric tonnes of carbon dioxide equivalent (MMTCDE).
+For example, Methane (CH<sub>4</sub>), a common gaseous hydrocarbon, has a warming effect of 25 times that of CO2, so we say methane has a GWP of 25. Sulphur hexafluoride (SF6), a man-made gas used as an electical insulator, has a GWP of 23,500. This means one metric tonne of SF6 released into the atmosphere is equivalent to 23,500 metric tonnes of CO<sub>2</sub>. 
 
 ### COP
 
@@ -74,9 +74,7 @@ The earth has had many different compositions of greenhouse gases in its history
 
 ### Software and carbon
 
-We will always emit carbon through our activities; our goal is for each gram of carbon we emit into the atmosphere to make sure we extract the most value from it as possible.
-
-To be carbon-efficient is to minimize the amount of carbon emitted per unit of work.
+We will always emit carbon through our activities; our goal is for each gram of carbon we emit into the atmosphere to make sure we extract the most value from it as possible. To be carbon-efficient is to minimize the amount of carbon emitted per unit of work.
 
 In the software space, the part we play in the climate solution is building applications that are carbon-efficient. Being carbon-efficient is about building applications that add the same value for you or your users, but emit less carbon.
 
@@ -131,7 +129,7 @@ Carbon is often used as a broad term to refer to the impact of our activities on
 - Greenhouse gases are measured in carbon dioxide equivalent (CO<sub>2</sub>-eq).
 - The COP stands for 'Conference of the Parties'. The COP is an annual event of all parties in the United Nations Framework Convention on Climate Change (UNFCCC).
 - The UN IPCC is the Intergovernmental Panel on Climate Change. It is a body within the United Nations (UN).
-- The Paris Climate Agreement is an international treaty agreed in 2015 by 196 parties and the UN to reduce the temperature increase of the Earth.
+- The Paris Climate Agreement is an international treaty agreed to in 2015 and reviewed every 5 years by 196 parties and the UN to reduce the temperature increase of the Earth.
 - The agreement is to keep the rise in global mean temperature to 2°C compared to 'pre-industrial' levels, with a 'preferable' lower limit of 1.5°C.
 - Weather refers to the conditions of the atmosphere in a short period of time. Climate refers to the conditions of the atmosphere over long periods of time.
 - Industrial human activity is the largest contributor to climate change.
