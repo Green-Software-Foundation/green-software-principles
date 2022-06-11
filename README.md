@@ -47,7 +47,7 @@ Proposed sections should be discussed as a public GH discussion, where the group
 - [Measurement](https://github.com/Green-Software-Foundation/principles/discussions/8)
 
 ## Appointments
-Chair Sarah Hsu - Goldman Sacs
+Chair Sarah Hsu - Goldman Sachs
 
 ## Copyright
 Innovation WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
