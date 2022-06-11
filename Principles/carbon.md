@@ -106,7 +106,9 @@ Through this approach, it's at least theoretically possible to sum up all the GH
 
 A value chain is a business model that describes the full range of activities needed to create a product or service. For companies that produce, say a laptop, this includes all the steps that bring a product from conception to distribution, such as raw material procurement, manufacturing functions, and marketing activities.
 
-Every step in this process emits carbon emissions. For example, every raw material used in the production of the laptop emitted carbon in its extraction and processing. Value chain emissions also include emissions from the use of the laptop, so the emissions from the energy used to power the laptop after it has been sold to a customer.
+Every step in this process emits carbon. For example, every raw material used in the production of the laptop is responsible for carbon emissions during its extraction and processing.
+
+Value chain emissions also include emissions from consumption and use of the product. In our laptop example, this would include emissions from the energy that powers the laptop after it has been sold to a customer.
 
 #### Attributional vs. Consequential
 
