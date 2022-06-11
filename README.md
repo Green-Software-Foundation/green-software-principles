@@ -15,7 +15,7 @@ Taking this training will give you enough information to:
 
 - We assume the reader has no experience at all in sustainability
 - We assume the reader has an entry level understanding of computing. 
-- This training is generic, for everyone, any field, and sector, any technology. This is the 101 training everyone takes, future trainings might be created which are more specific e.g. cloud, but this training doesn't exclude anyone. It's for everyone, which means by necessity it has to be higher level and more generic.
+- This is the generic 101 training that everyone takes. It is meant for anyone in any field or sector using any computing technology. While future trainings might be created to be more specific (e.g. cloud), this training doesn't exclude anyone and is, by necessity, higher level and more generic.
 
 
 ## Proposed differences to V1
