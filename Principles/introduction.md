@@ -1,5 +1,5 @@
 # Introduction
-Green Software is an emerging discipline at the intersection of climate science, software design, electricity markets, hardware, and data center design. The Principles of Green Software are a core set of competencies needed to define, build and run green software applications. These principles form a shared understanding of what it means to be a Green Software Practitioner independent of:
+Green Software Engineering is an emerging discipline at the intersection of climate science, software design, electricity markets, hardware, and data center design. The Principles of Green Software are a core set of competencies needed to define, build and run green software applications. These principles form a shared understanding of what it means to be a Green Software Practitioner independent of:
 
 - Application domain.
 - Industry.
