@@ -41,7 +41,7 @@ Energy is the ability to do work. There are many different forms of energy, such
 
 ## Electricity
 
-Most electricity is still produced by burning fossil fuels. Fossil fuels are decomposing plants and animals containing carbon and hydrogen found in the Earth's crust, for instance, coal, oil, and natural gas. Clean energy comes from renewable, zero*emission sources that do not pollute the atmosphere when used and energy saved by energy efficiency measures. There are overlaps between clean, green and renewable energy. Here's how we can differentiate between them:
+Most electricity is still produced by burning fossil fuels. Fossil fuels are decomposing plants and animals containing carbon and hydrogen found in the Earth's crust, for instance, coal, oil, and natural gas. Clean energy comes from renewable, zero-emission sources that do not pollute the atmosphere when used and energy saved by energy efficiency measures. There are overlaps between clean, green and renewable energy. Here's how we can differentiate between them:
 * Clean energy = clean air
 * Green energy = sources from nature
 * Renewable energy = recyclable sources
@@ -65,7 +65,7 @@ Because of this, the more we utilise a computer, the more efficient a computer b
 ### Static power draw
 
 An idle computer draws electricity even at zero percentage utilisation. 
-This is the static power draw of a computer. The static power draw varies by configuration and hardware components, but all parts have some static power draw. This is one of the reasons that PCs, laptops, and end-user devices have power-saving modes. If the device is idle, it will eventually trigger a hibernation mode and put the disk and screen to sleep or even change the CPU's frequency. These power-saving modes save on electricity, but they have other trade*offs, such as a slower restart when the device wakes up.
+This is the static power draw of a computer. The static power draw varies by configuration and hardware components, but all parts have some static power draw. This is one of the reasons that PCs, laptops, and end-user devices have power-saving modes. If the device is idle, it will eventually trigger a hibernation mode and put the disk and screen to sleep or even change the CPU's frequency. These power-saving modes save on electricity, but they have other trade-offs, such as a slower restart when the device wakes up.
 
 Servers are usually not configured for aggressive or even minimal power-saving. Many use-cases running on servers demand total capacity as quickly as possible because the server needs to respond to rapidly changing demands, which lead to many servers in idle modes during low demand periods. An idle server costs carbon from the embedded carbon and its inefficient utilisation.
 
