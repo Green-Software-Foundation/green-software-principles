@@ -41,7 +41,7 @@ Energy is the ability to do work. There are many different forms of energy, such
 
 ## Electricity
 
-Most electricity is still produced by burning fossil fuels. Fossil fuels are decomposing plants and animals containing carbon and hydrogen found in the Earth's crust, for instance, coal, oil, and natural gas. Clean energy comes from renewable, zero-emission sources that do not pollute the atmosphere when used and energy saved by energy efficiency measures. There are overlaps between clean, green and renewable energy. Here's how we can differentiate between them:
+Most electricity is still produced by burning fossil fuels. Fossil fuels are decomposing plants and animals containing carbon and hydrogen found in the Earth's crust, for instance, coal, oil, and natural gas. Clean energy comes from renewable, zero-emission sources that do not pollute the atmosphere when extracted. There are overlaps between clean, green and renewable energy. Here's how we can differentiate between them:
 * Clean energy = clean air
 * Green energy = sources from nature
 * Renewable energy = recyclable sources
