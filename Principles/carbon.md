@@ -31,7 +31,9 @@ For example, Methane (CH<sub>4</sub>), a common gaseous hydrocarbon, has a warmi
 
 ### COP
 
-The COP stands for 'Conference of the Parties'. The COP is an annual event of all parties in the United Nations Framework Convention on Climate Change (UNFCCC). The COP is used to review the submitted progress of each party member, and to asses the effects of measures taken by the UNFCCC on tackling global warming. The COP is also a chance for parties to come together to make decisions that will reduce the effects of global warming. Common topics include strategies to reduce carbon, financing of low carbon strategies, and preservation of natural habitats.
+The COP stands for 'Conference of the Parties'. The COP is an annual event of all parties in the United Nations Framework Convention on Climate Change (UNFCCC). The COP is used to review the submitted progress of each party member and to assess the effects of measures taken by the UNFCCC on tackling global warming. The COP is also a chance for parties to come together to make decisions that will reduce the effects of global warming. Common topics include strategies to reduce carbon, financing of low-carbon strategies, and preservation of natural habitats.
+
+### IPCC
 
 The UN IPCC is the Intergovernmental Panel on Climate Change. It is a body within the United Nations (UN). Created in 1988 the objective of the IPCC is to provide governments at all levels with scientific information that they can use to develop climate policies. IPCC reports are also a key input into international climate change negotiations. The IPCC is an organization of governments that are members of the United Nations or WMO. The IPCC currently has 195 members. [Read more about the IPCC](https://www.ipcc.ch/about/).
 
