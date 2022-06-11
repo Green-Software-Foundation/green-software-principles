@@ -58,7 +58,7 @@ Energy proportionality measures the relationship between power consumed by a com
 
 Utilisation measures how much of a computer's resources are used, usually given as a percentage. A fully utilised computer running at its maximum capacity has a high percentage, while an idle computer with no work to do has a lower percentage. 
 
-The relationship between power and utilisation is not proportional. Mathematically speaking, proportionality between two variables means their rations are equivalent. At 0% utilisation, a computer might draw 100W; at 50%, it might draw 180W; and at 100%, it might draw 200W. The relationship between power consumption and utilisation is not linear and does not cross the origin.
+The relationship between power and utilisation is not proportional. Mathematically speaking, proportionality between two variables means their rations are equivalent. At 0% utilisation, a computer might draw 100W; at 50%, it might draw 180W; and at 100%, it might draw 200W. The relationship between power consumption and utilisation is not linear and power consumption never drops to zero.
 
 Because of this, the more we utilise a computer, the more efficient a computer becomes at converting electricity to practical computing operations. One way to improve hardware efficiency is to run the workload on as few servers as possible, with the servers running at the highest utilisation rate, maximising energy efficiency.
 
