@@ -20,7 +20,7 @@ Taking this training will give you enough information to:
 
 ## Proposed differences to V1
 
-**Carbon** - Delve a deeper into the science of climate change, enough so that you can defend a challenge. The purpose of GSE is not to convince people of climate change, that's a fact. The intention of this section is to give confidence to the practitioner that if they were challenged, they could give a reasonable response.
+**Carbon** - Delve a deeper into the science of climate change so that you can defend the value of green software proposals. The purpose of GSE is not to convince people of climate change, but to provide you with the fundamentals necessary for a reasonable response to questions.
 
 **Electricity, Carbon Intensity and Embodied Carbon** - Talk more about how you can measure each and more applicable advice for ideas for reduction.
 
