@@ -72,7 +72,7 @@ Greenhouse gases and the greenhouse effect are crucial to all life on earth, and
 
 We also need greenhouse gases in our everyday lives. For example CO<sub>2</sub> is an important gas in many industries, including the food supply chain. The problems comes from releasing greenhouse gases into the atmosphere in an uncontrolled way, primarily by the burning of fossil fuels.
 
-The earth has had many different compositions of greenhouse gases in its history, and natural fluctuation does occur over time (millennia). This is often referred to as climate change, whereas global warming is separated out as the human influenced factor which has taken place over a very short period of time (decades).
+The earth has had many different compositions of greenhouse gases in its history, and natural fluctuation does occur over time (millennia). This is often referred to as climate change, whereas global warming is separated out as the human-influenced factor which has taken place over a very short period of time (decades).
 
 ### Software and carbon
 
