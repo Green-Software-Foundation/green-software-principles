@@ -37,7 +37,9 @@ The software creators often do not have to bear the burden of their software's e
 
 ## Energy
 
-Energy is the ability to do work. There are many different forms of energy, such as heat, electrical and chemical. We can convert energy from one form to another. For example, we convert chemical energy stored in coal into electrical energy. In other words, electricity is secondary energy converted from another energy type. We can think of energy as a measure of the electricity used. The standard unit for energy is Joules (J), while the standard unit to measure energy consumption is kilowatt hours (kWh). We will use kWh throughout the rest of this document. 
+Energy is the ability to do work. There are many different forms of energy, such as heat, electrical and chemical. We can convert energy from one form to another. For example, we convert chemical energy stored in coal into electrical energy. In other words, electricity is secondary energy converted from another energy type. We can think of energy as a measure of the electricity used.
+
+The standard unit for energy is Joules (J), but Joules can be hard to picture in your mind. In the context of electrical energy consumption, the most common standard measure is kilowatt hours (kWh) because it is easily calculated from the rate of energy consumption (kilowatts) and the time it is consumed (hours). For example, a 60 kWh battery like you might find in an electric car could produce 1 kW for 60 hours, 60 kW for 1 hour, or enough to power a 10W lightbulb for 6000 hours.
 
 ## Electricity
 
