@@ -23,9 +23,9 @@ There are lots of different ways to harness energy from our natural environment.
 
 ### Greenhouse gases
 
-Greenhouse gases (GHG) are a group of gases that trap heat from solar radiation in the Earth's atmosphere. These gasses act as a blanket increasing the temperature on the surface of the Earth. Due to man-made carbon pollution, the global climate is changing much faster than animals and plants can naturally adapt. How human society will adapt is still an open question.
+Greenhouse gases (GHG) are a group of gases that trap heat from solar radiation in the Earth's atmosphere. These gases act as a blanket increasing the temperature on the surface of the Earth. Due to man-made carbon pollution, the global climate is changing much faster than animals and plants can naturally adapt. How human society will adapt is still an open question.
 
-There are many different GHGs. The most common is carbon dioxide (CO<sub>2</sub>) but we often refer to all GHGs by just saying 'carbon'. To make calculations easier we normalize all GHG numbers to carbon dioxide equivalent (CO<sub>2</sub>-eq). CO<sub>2</sub>-eq is a way of measuring the impact that non-CO<sub>2</sub> gasses have on global warming potential (GWP), relative to the impact of carbon dioxide. CO<sub>2</sub>-eq is most commonly measured in million metric tonnes of carbon dioxide equivalent (MMTCDE). Different gasses have different GWPs than CO<sub>2</sub> per unit of weight. CO<sub>2</sub> has a GWP of 1, since it is the gas we are normalising against. 
+There are many different GHGs. The most common is carbon dioxide (CO<sub>2</sub>) but we often refer to all GHGs by just saying 'carbon'. To make calculations easier we normalize all GHG numbers to carbon dioxide equivalent (CO<sub>2</sub>-eq). CO<sub>2</sub>-eq is a way of measuring the impact that non-CO<sub>2</sub> gases have on global warming potential (GWP), relative to the impact of carbon dioxide. CO<sub>2</sub>-eq is most commonly measured in million metric tonnes of carbon dioxide equivalent (MMTCDE). Different gases have different GWPs than CO<sub>2</sub> per unit of weight. CO<sub>2</sub> has a GWP of 1, since it is the gas we are normalising against. 
 
 For example, Methane (CH<sub>4</sub>), a common gaseous hydrocarbon, has a warming effect of 25 times that of CO2, so we say methane has a GWP of 25. Sulphur hexafluoride (SF6), a man-made gas used as an electical insulator, has a GWP of 23,500. This means one metric tonne of SF6 released into the atmosphere is equivalent to 23,500 metric tonnes of CO<sub>2</sub>. 
 
@@ -49,7 +49,7 @@ Net-zero means for each gram of CO<sub>2</sub>-eq we emit we also extract 1 gram
 
 ### Climate and Us
 
-Weather refers to the conditions of the atmosphere in a short period of time. Climate refers to the conditions of the atmosphere over long periods of time. Any changes to the long-term condition of the atmosphere will also cause changes to the short-term conditions of the atmosphere. An obvious comparison is that if the average temperature of the atmosphere increases, the average temperature of the weather in any given season will also increase. However there are myriad factors at play where this climate warming can lead to changes in weather. Some example of measurable impacts changes to weather conditions due to climate change are:
+While weather refers to the conditions of the atmosphere in a short period of time, climate refers to the conditions of the atmosphere over long periods of time. Any changes to the long-term condition of the atmosphere will also cause changes to the short-term conditions of the atmosphere. An obvious comparison is that if the average temperature of the atmosphere increases, the average temperature of the weather in any given season will also increase. However there are myriad factors at play where this climate warming can lead to changes in weather. Some example of measurable impacts changes to weather conditions due to climate change are:
 
 - Changes to the water cycle including rainfall
 - Melting of ice
@@ -64,13 +64,13 @@ The impacts of these changes may include:
 - More frequent extreme weather conditions
 - Increased risk of wildfire
 
-Industrial human activity is the largest contributor to climate change. The amount of carbon dioxide in the atmosphere is directly proportional to the amount of human activity. The greenhouse effect from these greenhouse gasses contributes to the warming of the atmosphere, and thus the changes to the climate and weather. Without intervention these changes will have catastrophic effects on the environment and planet.
+Industrial human activity is the largest contributor to climate change. The amount of carbon dioxide in the atmosphere is directly proportional to the amount of human activity. The greenhouse effect from these greenhouse gases contributes to the warming of the atmosphere, and thus the changes to the climate and weather. Without intervention these changes will have catastrophic effects on the environment and planet.
 
 ### Other Sources of Greenhouse gases
 
-Greenhouse gasses and the greenhouse effect are crucial to all life on earth, and often come from natural sources like animals, volcanoes, and other geological activity. The greenhouse effect allows the earth to maintain a higher temperature than it would without greenhouse gases by capturing more heat from solar radiation. Like many other natural processes of the earth, the greenhouse effect is a finely tuned balance with multiple factors.
+Greenhouse gases and the greenhouse effect are crucial to all life on earth, and often come from natural sources like animals, volcanoes, and other geological activity. The greenhouse effect allows the earth to maintain a higher temperature than it would without greenhouse gases by capturing more heat from solar radiation. Like many other natural processes of the earth, the greenhouse effect is a finely tuned balance with multiple factors.
 
-We also need greenhouses gases in our everyday lives. For example CO<sub>2</sub> is an important gas in many industries, including the food supply chain. The problems comes from releasing greenhouses gasses into the atmosphere in an uncontrolled way, primarily by the burning of fossil fuels.
+We also need greenhouse gases in our everyday lives. For example CO<sub>2</sub> is an important gas in many industries, including the food supply chain. The problems comes from releasing greenhouse gases into the atmosphere in an uncontrolled way, primarily by the burning of fossil fuels.
 
 The earth has had many different compositions of greenhouse gases in its history, and natural fluctuation does occur over time (millennia). This is often referred to as climate change, whereas global warming is separated out as the human influenced factor which has taken place over a very short period of time (decades).
 
