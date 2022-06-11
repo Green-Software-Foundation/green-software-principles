@@ -76,7 +76,7 @@ The earth has had many different compositions of greenhouse gases in its history
 
 ### Software and carbon
 
-We will always emit carbon through our activities; our goal is for each gram of carbon we emit into the atmosphere to make sure we extract the most value from it as possible. To be carbon-efficient is to minimize the amount of carbon emitted per unit of work.
+We will always emit carbon through our activities; our goal is to make sure we extract as much value as possible from each gram of carbon we emit into the atmosphere. To be carbon-efficient is to minimize the amount of carbon emitted per unit of work.
 
 In the software space, the part we play in the climate solution is building applications that are carbon-efficient. Being carbon-efficient is about building applications that add the same value for you or your users, but emit less carbon.
 
