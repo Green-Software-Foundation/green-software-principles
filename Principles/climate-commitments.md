@@ -60,7 +60,7 @@ The effectiveness of these methods are normally measured based on whether they c
 
 When it comes to carbon removal projects, durability is a critical consideration. The durability of a project describes how long the carbon dioxide will be kept from the atmosphere.
 
-Short-term durability is up to 100 years, medium-term is 100 to 1,000 years, and long term is more than 1,000 years.
+Short-term durability is up to 100 years, medium-term is 100 to 1,000 years, and long-term is more than 1,000 years.
 
 Solutions that rely on Earth's natural carbon cycle have short-term durability, measured in decades. For example, forestry projects have a durability of 40 to 100 years.
 

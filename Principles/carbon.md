@@ -49,7 +49,7 @@ Net-zero means for each gram of CO<sub>2</sub>-eq we emit we also extract 1 gram
 
 ### Climate and Us
 
-Weather refers to the conditions of the atmosphere in a short period of time. Climate refers to the conditions of the atmosphere over long periods of time. Any changes to the long term condition of the atmosphere will also cause changes to the short term conditions of the atmosphere. An obvious comparison is that if the average temperature of the atmosphere increases, the average temperature of the weather in any given season will also increase. However there are myriad factors at play where this climate warming can lead to changes in weather. Some example of measurable impacts changes to weather conditions due to climate change are:
+Weather refers to the conditions of the atmosphere in a short period of time. Climate refers to the conditions of the atmosphere over long periods of time. Any changes to the long-term condition of the atmosphere will also cause changes to the short-term conditions of the atmosphere. An obvious comparison is that if the average temperature of the atmosphere increases, the average temperature of the weather in any given season will also increase. However there are myriad factors at play where this climate warming can lead to changes in weather. Some example of measurable impacts changes to weather conditions due to climate change are:
 
 - Changes to the water cycle including rainfall
 - Melting of ice
