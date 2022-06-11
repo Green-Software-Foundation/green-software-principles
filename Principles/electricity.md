@@ -52,7 +52,7 @@ Most electricity is still produced by burning fossil fuels. Fossil fuels are dec
 
 The data center industry uses power usage effectiveness (PUE), developed by Green Grid in 2006, to measure data center energy efficiency. Specifically, PUE measures how much energy the computing equipment uses in contrast to cooling and other overhead supporting the equipment. Computing accounts for nearly all consumed energy when a data center's PUE is close to 1.0. When PUE is 2.0, an additional watt of power is required to cool and distribute power to the IT equipment for every watt used in computing.
 
-Another way to think of PUE is as a multiplier to your application energy consumption to get the actual consumption from the grid. So, for example, if your application consumed 10 kWh and the PUE of the data center where it is running is 1.5, then the actual consumption from the grid is 15 kWh, 5kWh goes towards the operational overhead of the data center, and 10 kWh goes to the servers that are running your application.
+Another way to think of PUE is as a multiplier to your application energy consumption to get the actual consumption from the grid. So, for example, if your application consumed 10 kWh and the PUE of the data center where it is running is 1.5, then the actual consumption from the grid is 15 kWh, 5 kWh goes towards the operational overhead of the data center, and 10 kWh goes to the servers that are running your application.
 
 ## Energy proportionality
 
