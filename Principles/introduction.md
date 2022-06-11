@@ -18,7 +18,7 @@ Anyone involved in the process of building, deploying, or managing software.
 ## Summary
 1. Carbon Efficiency: Emit the least amount of carbon possible.
 2. Energy Efficiency: Use the least amount of energy possible.
-3. Carbon Awareness: Do more when the electricity is cleaner and do less when the electricity is dirtier.
-4. Hardware Efficiency: Use the least amount of embodied carbon possible.
+3. Hardware Efficiency: Use the least amount of equipment possible for the longest time possible.
+4. Carbon Awareness: Do more when the electricity is cleaner and do less when the electricity is dirtier.
 5. Climate Commitments: Understand the exact mechanism of the reduction.
 6. Measuring: What you can't measure, you can't improve.
