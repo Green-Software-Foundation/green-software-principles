@@ -167,3 +167,7 @@ A [metric](https://dictionary.cambridge.org/dictionary/english/metric) is a syst
 The SCI is carefully designed, so eliminating emissions is the only way to reduce the score. Together with a separate neutralization strategy, it can form the basis of a net-zero strategy for an organization.
 
 The SCI is very suitable for open-source software where it's often impossible to calculate totals since you cannot know to what extent your software is used.
+
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+  <a href="./climate-commitments.md">← Previous section: Neutralisations</a>
+</div>

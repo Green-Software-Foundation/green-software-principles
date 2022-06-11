@@ -69,3 +69,6 @@ CDLA-Permissive-1.0
 	<figcaption></figcaption>
 </figure>
 
+<div style="display: flex; flex-direction: row; justify-content: flex-end">
+  <a href="./Principles/introduction.md">→ Next section: Introduction</a>
+</div>

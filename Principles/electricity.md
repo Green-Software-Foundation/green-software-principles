@@ -74,3 +74,9 @@ Servers are usually not configured for aggressive or even minimal power-saving. 
 Electricity is a proxy for carbon, so building an application that is energy efficient is equivalent to building an application that is carbon efficient.
 
 Green software takes responsibility for its electricity consumption and is designed to consume as little as possible. Quantifying the energy consumption of an application is a step in the correct direction to start thinking about how an application can operate more efficiently. Understanding your application's energy consumption is not the only story. The hardware your software is running on uses some of the electricity for operational overhead. This is referred to as Power Usage Efficiency (PUE) in the cloud space. The concept of energy proportionality adds another dimension of complexity since hardware becomes more efficient at turning electricity into useful operations the more it's used. Understanding all this gives green software practitioners a better understanding of how their application behaves with respect to energy consumption in the real world.
+
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+  <a href="./carbon.md">← Previous section: Carbon</a>
+  <span> | </span>
+  <a href="./carbon-intensity.md">→ Next section: Carbon Intensity</a>
+</div>

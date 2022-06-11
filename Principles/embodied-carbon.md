@@ -60,3 +60,9 @@ Reference
 * https://principles.green/principles/embodied-carbon/
 * https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/
 * https://www.boavizta.org/en/blog/empreinte-de-la-fabrication-d-un-serveur 
+
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+  <a href="./carbon-intensity.md">← Previous section: Carbon Intensity</a>
+  <span> | </span>
+  <a href="./climate-commitments.md">→ Next section: Neutralisations</a>
+</div>

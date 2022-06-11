@@ -215,3 +215,9 @@ A third example is progressive enhancement with the web. The web experience impr
 ## Summary
 
 Demand shaping is related to a broader concept in sustainability, which is to reduce consumption. We can achieve a lot by becoming more efficient with resources, but we also need to consume less at some point. As Green Software Practitioners to be carbon-aware means perhaps when the carbon intensity is high, we consider canceling it instead of demand shifting compute. Reducing the demands of our application and the expectations of our end users.
+
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+  <a href="./electricity.md">← Previous section: Electricity</a>
+  <span> | </span>
+  <a href="./embodied-carbon.md">→ Next section: Embodied Carbon</a>
+</div>

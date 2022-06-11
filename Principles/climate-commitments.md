@@ -166,3 +166,9 @@ Carbon-Free Energy is defined as [the average percentage of carbon-free energy c
 So for the previous example, if measured using daily matching, we are 100% matched with renewable energy. However, we are only 33.1% matched if measured using hourly matching. **The CFE percentage is, therefore, 33.1%**.  
 
 [Google](https://sustainability.google/progress/energy/) and now [Microsoft](https://blogs.microsoft.com/blog/2021/07/14/made-to-measure-sustainability-commitment-progress-and-updates/) have both set a goal to reach 100% CFE for all their operations by 2030. So for every hour of every day, be 100% matched with renewable energy. This is the essence of a 24/7 Hourly Matching Target.
+
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+  <a href="./embodied-carbon.md">← Previous section: Embodied Carbon</a>
+  <span> | </span>
+  <a href="./measuring-software.md">→ Next section: Measurement</a>
+</div>

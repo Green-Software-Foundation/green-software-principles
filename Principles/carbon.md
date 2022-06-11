@@ -133,3 +133,9 @@ Carbon is often used as a broad term to refer to the impact of our activities on
 - The agreement is to keep the rise in global mean temperature to 2°C compared to 'pre-industrial' levels, with a 'preferable' lower limit of 1.5°C.
 - Weather refers to the conditions of the atmosphere in a short period of time. Climate refers to the conditions of the atmosphere over long periods of time.
 - Industrial human activity is the largest contributor to climate change.
+
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+  <a href="./introduction.md">← Previous section: Introduction</a>
+  <span> | </span>
+  <a href="./electricity.md">→ Next section: Electricity</a>
+</div>
