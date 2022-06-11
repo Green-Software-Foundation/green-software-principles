@@ -19,7 +19,7 @@ Emit the least amount of carbon possible.
 
 ### Introduction
 
-There are lots of different ways to harness energy from our natural environment. From sustainable sources such as the sun, and unsustainable sources like carbon rich fossil fuels including coal, oil, and natural gas. Whenever we burn carbon based fuels for energy, we release carbon dioxide into the atmosphere. This contributes to global warming because carbon dioxide is a greenhouse gas that contributes to the greenhouse effect. Understanding the impact of greenhouse gases on our environment, and the relationship between energy and carbon dioxide is key to understanding the impact that software can have on the environment.
+There are lots of different ways to harness energy from our natural environment. They range from sustainable sources such as the sun to unsustainable sources like carbon rich fossil fuels including coal, oil, and natural gas. Whenever we burn carbon-based fuels for energy, we release carbon dioxide into the atmosphere. This contributes to global warming because carbon dioxide is a greenhouse gas that contributes to the greenhouse effect. Understanding the impact of greenhouse gases on our environment, and the relationship between energy and carbon dioxide is key to understanding the impact that software can have on the environment.
 
 ### Greenhouse gases
 
