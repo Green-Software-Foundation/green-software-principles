@@ -24,11 +24,15 @@ Taking this training will give you enough information to:
 
 **Electricity, Carbon Intensity and Embodied Carbon** - Talk more about how you can measure each and more applicable advice for ideas for reduction.
 
-**Networking** - Provide a more accurate model, what about streaming? Options for reducing network traffic (thinner APIs, low qual streaming etc...). Mobile vs. Fixed Line. Direct DC to DC, vs DC to Client.
+**Networking** - Provide an extended, more accurate model. Cover topics such as:
+* Streaming 
+* Options for reducing network traffic (e.g. thinner APIs, low-quality streaming)
+* Mobile vs. Fixed Line
+* Direct DC to DC vs DC to Client
 
-**Neutralisations** - New section, going into details about neutralisations, limitations of offsets, offsets vs. reductions. What is net-zero and carbon neutral, do offsets help or hinder investment into Green software.
+**Neutralisations** - Create a new section on the details of neutralisations, the limitations of offsets, and the differences between offsets and reductions. This section should explain terms such as net-zero and carbon neutral, as well as discuss how offsets help or hinder investment into Green Software.
 
-**Measurement** - Discussing the SCI.
+**Measurement** - Discuss the SCI.
 
 ## Sections
 
