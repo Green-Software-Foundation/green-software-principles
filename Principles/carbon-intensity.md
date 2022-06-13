@@ -42,9 +42,9 @@ Not all electricity is produced in the same way. In different locations and time
 
 The standard unit of carbon intensity is gCO<sub>2</sub>eq/kWh or grams of carbon per kilowatt-hour.
 
-If your computer is plugged directly into a wind farm, then its electricity would have a carbon intensity of 0 gCO<sub>2</sub>eq/kWh since a wind farm emits no carbon to produce that electricity. However, most people can't plug directly into wind farms; instead, they plug into power grids supplied with electricity from various sources. 
+If your computer is plugged directly into a wind farm, then its electricity would have a carbon intensity of about 0 gCO<sub>2</sub>eq/kWh since a wind farm emits no carbon to produce that electricity. However, most people can't plug directly into wind farms; instead, they plug into power grids supplied with electricity from various sources. 
 
-Once on a grid, you can't control which sources supply electricity; you are getting a mix of everything. So your carbon intensity will be a mix of all the current power sources in a grid, the lower carbon and the higher carbon sources.
+Once on a grid, you can't control which sources supply electricity; you are getting a mix of everything. Your carbon intensity will be based on all the current power sources in a grid, inclusive of both lower- and higher-carbon sources.
 
 
 ## Variability of Carbon Intensity
@@ -60,19 +60,19 @@ Once on a grid, you can't control which sources supply electricity; you are gett
 
 ## Balancing Supply and Demand
 
-Electricity demand varies during the day, and that demand needs to be met by supply. If a utility doesn't produce enough electricity to meet demand, there is a brownout. Suppose a utility produces more electricity than is required, then stop infrastructure burning out breakers trip, and we have blackouts. There needs to be a balance between the demand and supply of electricity at every moment. Who has responsibility for this differs between electricity grids, but it's the utility provider for simplicity.
+Electricity demand varies during the day, and that demand needs to be met by supply. If a utility doesn't produce enough electricity to meet demand, then we have a brownout. If instead a utility produces more electricity than is required and circuit breakers trip to protect our infrastructure, then we have a blackout. To keep the grid operational, there needs to be a balance between the demand and supply of electricity at every moment. Who has responsibility for this differs between electricity grids, but for simplicity we can assume it's the utility provider.
 
 
 ### Dispatchability & Curtailment
 
-Some of that supply can easily control the power it produces, e.g., a coal power plant can burn less coal; this is called **dispatchability**. However, some of that supply can't easily control the power it produces, e.g., a wind farm can't control how much the wind blows. So if it makes more electricity than is currently needed, that electricity is thrown away; this is called **curtailment**.
+Some energy sources can easily control the power they produce, e.g., a coal power plant can burn less coal; this is called **dispatchability**. However, some energy sources can't easily control the power they produce, e.g., a wind farm can't control how much the wind blows. So if it makes more electricity than is currently needed, that electricity is thrown away; this is called **curtailment**.
 
 
 ### Marginal Carbon Intensity
 
-If you choose to consume more energy, that energy comes from the marginal power plant. 
+If you choose to consume more energy, that energy comes from a marginal power plant. 
 
-The marginal power plant is dispatchable; it can control the energy it outputs. Renewable plants cannot control the sun or the wind, so marginal power plants are often powered by fossil fuels.
+A marginal power plant is dispatchable; it can control the energy it outputs. Renewable plants cannot control the sun or the wind, so marginal power plants are often powered by fossil fuels.
 
 We have the average carbon intensity of all the energy in the grid at any moment. Marginal carbon intensity is the carbon intensity of the power plant that would have to ramp up to meet any new demand. If you were to turn on a light right now, a specific power plant would have to output more energy. So **marginal carbon intensity** is the carbon intensity of that particular power plant.
 
