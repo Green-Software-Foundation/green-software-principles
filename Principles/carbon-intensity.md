@@ -70,11 +70,9 @@ Some energy sources can easily control the power they produce, e.g., a coal powe
 
 ### Marginal Carbon Intensity
 
-If you choose to consume more energy, that energy comes from a marginal power plant. 
+If you were to turn on a light right now, or run an intensive piece of software, a specific power plant with additional or "marginal" capacity would have to output more energy to support you. So **marginal carbon intensity** is the carbon intensity of the particular power plant that ramps up to meet your needs.
 
 A marginal power plant is dispatchable; it can control the energy it outputs. Renewable plants cannot control the sun or the wind, so marginal power plants are often powered by fossil fuels.
-
-We have the average carbon intensity of all the energy in the grid at any moment. Marginal carbon intensity is the carbon intensity of the power plant that would have to ramp up to meet any new demand. If you were to turn on a light right now, a specific power plant would have to output more energy. So **marginal carbon intensity** is the carbon intensity of that particular power plant.
 
 Fossil-fueled power plants rarely scale down to 0. They have a minimum functioning threshold, and some don't scale at all; they are considered consistent always-on baseload. Because of this, we can sometimes reach the perverse scenario where we curtail (throw away) renewable energy while still consuming energy from fossil fuel power plants.
 
