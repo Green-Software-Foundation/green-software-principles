@@ -27,7 +27,7 @@ The device we are reading this document on released some carbon during its creat
 
 Embodied carbon varies drastically between end-user devices. For some devices, the carbon emitted during the manufacturing phase outstrips what is emitted during usage, highlighting that the embodied carbon cost can be much higher than the carbon cost of the electricity powering it.
 
-For example, a desktop computer is estimated to emit 132 kg CO2eq/year, where XX kg CO2eq/year for production, during XX kg CO2eq/yea for the actual electricity usage. In the contrary, a mobile phone is estimated to emit 8 kg CO2eq/year, where XX kg CO2eq/year for production, during XX kg CO2eq/yea for energy usage.
+For example, a desktop computer is estimated to emit 132 kg CO<sub>2</sub>eq/year, where XX kg CO<sub>2</sub>eq/year for production, during XX kg CO<sub>2</sub>eq/yea for the actual electricity usage. In the contrary, a mobile phone is estimated to emit 8 kg CO<sub>2</sub>eq/year, where XX kg CO<sub>2</sub>eq/year for production, during XX kg CO<sub>2</sub>eq/yea for energy usage.
 
 By thinking of embodied carbon, any device, even one not consuming electricity, effectively releases carbon over its lifetime.
 
@@ -41,7 +41,7 @@ We can do many things to be hardware efficient, but one thing we can do is help 
 
 A way to account for embodied carbon is to amortise the carbon over the expected life span of a device. For example, if it took 4 tons of carbon to build a server and we hope the server has a 4-year lifespan, we can consider this equivalent to releasing 1 ton of carbon every year. 
 
-If we add one more year to the lifespan of our 2019 R640 Dell Server, then the amortised carbon drops from 320kg CO2eq/year to 256 kg CO2eq/year.
+If we add one more year to the lifespan of our 2019 R640 Dell Server, then the amortised carbon drops from 320kg CO<sub>2</sub>eq/year to 256 kg CO<sub>2</sub>eq/year.
 
 Hardware is retired when it breaks down or struggles to handle modern workloads. Hardware will always break down at some point, but we can use software to build applications that can run on older hardware and extend their lifetime. Many factors decide whether a cloud infrastructure is a correct fit in today's computing world. Contrarily, there are many use cases where cloud computing is not the right fit (yet). 
 

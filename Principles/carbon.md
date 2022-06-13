@@ -5,7 +5,7 @@ Emit the least amount of carbon possible.
 <!-- ## Learning Objectives
 
 - What are Green House Gases? [Knowledge]
-- What is (CO<sub>2</sub>-eq)? [Knowledge]
+- What is (CO<sub>2</sub>eq)? [Knowledge]
 - What is the UN IPCC? [Knowledge]
 - What is COP? [Knowledge]
 - What was agreed in the Paris Climate Agreement? [Knowledge]
@@ -25,9 +25,9 @@ There are lots of different ways to harness energy from our natural environment.
 
 Greenhouse gases (GHG) are a group of gases that trap heat from solar radiation in the Earth's atmosphere. These gases act as a blanket increasing the temperature on the surface of the Earth. Due to man-made carbon pollution, the global climate is changing much faster than animals and plants can naturally adapt. How human society will adapt is still an open question.
 
-There are many different GHGs. The most common is carbon dioxide (CO<sub>2</sub>) but we often refer to all GHGs by just saying 'carbon'. To make calculations easier we normalize all GHG numbers to carbon dioxide equivalent (CO<sub>2</sub>-eq). CO<sub>2</sub>-eq is a way of measuring the impact that non-CO<sub>2</sub> gases have on global warming potential (GWP), relative to the impact of carbon dioxide. CO<sub>2</sub>-eq is most commonly measured in million metric tonnes of carbon dioxide equivalent (MMTCDE). Different gases have different GWPs than CO<sub>2</sub> per unit of weight. CO<sub>2</sub> has a GWP of 1, since it is the gas we are normalising against. 
+There are many different GHGs. The most common is carbon dioxide (CO<sub>2</sub>) but we often refer to all GHGs by just saying 'carbon'. To make calculations easier we normalize all GHG numbers to carbon dioxide equivalent (CO<sub>2</sub>eq). CO<sub>2</sub>eq is a way of measuring the impact that non-CO<sub>2</sub> gases have on global warming potential (GWP), relative to the impact of carbon dioxide. CO<sub>2</sub>eq is most commonly measured in million metric tonnes of carbon dioxide equivalent (MMTCDE). Different gases have different GWPs than CO<sub>2</sub> per unit of weight. CO<sub>2</sub> has a GWP of 1, since it is the gas we are normalising against. 
 
-For example, Methane (CH<sub>4</sub>), a common gaseous hydrocarbon, has a warming effect of 25 times that of CO2, so we say methane has a GWP of 25. Sulphur hexafluoride (SF6), a man-made gas used as an electical insulator, has a GWP of 23,500. This means one metric tonne of SF6 released into the atmosphere is equivalent to 23,500 metric tonnes of CO<sub>2</sub>. 
+For example, Methane (CH<sub>4</sub>), a common gaseous hydrocarbon, has a warming effect of 25 times that of CO<sub>2</sub>, so we say methane has a GWP of 25. Sulphur hexafluoride (SF6), a man-made gas used as an electical insulator, has a GWP of 23,500. This means one metric tonne of SF6 released into the atmosphere is equivalent to 23,500 metric tonnes of CO<sub>2</sub>. 
 
 ## COP
 
@@ -45,7 +45,7 @@ The agreement is reviewed every 5 years, and also mobilises finance to developin
 
 The temperature increase on the Earth is dependent on the total amount of carbon in the atmosphere, not the rate at which we are emitting. To completely halt the rate of temperature increase, we need to stop adding GHGs to the atmosphere or achieve net-zero emissions.
 
-Net-zero means for each gram of CO<sub>2</sub>-eq we emit we also extract 1 gram, so the overall CO<sub>2</sub>-eq in the atmosphere remains fixed.
+Net-zero means for each gram of CO<sub>2</sub>eq we emit we also extract 1 gram, so the overall CO<sub>2</sub>eq in the atmosphere remains fixed.
 
 ## Climate and Us
 
@@ -130,7 +130,7 @@ Carbon is often used as a broad term to refer to the impact of our activities on
 
 - Greenhouse gases are a group of gases that trap heat from solar radiation in the Earth's atmosphere.
 - The most common greenhouse gas is carbon dioxide (CO<sub>2</sub>).
-- Greenhouse gases are measured in carbon dioxide equivalent (CO<sub>2</sub>-eq).
+- Greenhouse gases are measured in carbon dioxide equivalent (CO<sub>2</sub>eq).
 - The COP stands for 'Conference of the Parties'. The COP is an annual event of all parties in the United Nations Framework Convention on Climate Change (UNFCCC).
 - The UN IPCC is the Intergovernmental Panel on Climate Change. It is a body within the United Nations (UN).
 - The Paris Climate Agreement is an international treaty agreed to in 2015 and reviewed every 5 years by 196 parties and the UN to reduce the temperature increase of the Earth.

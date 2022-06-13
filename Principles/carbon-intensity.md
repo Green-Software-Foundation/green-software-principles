@@ -31,7 +31,7 @@ Do more when the electricity is cleaner and do less when the electricity is dirt
 
 ## Introduction
 
-The carbon intensity of electricity measures how much carbon (CO2eq) is emitted per kilowatt-hour of electricity consumed.
+The carbon intensity of electricity measures how much carbon (CO<sub>2</sub>eq) is emitted per kilowatt-hour of electricity consumed.
 
 Not all electricity is produced in the same way. In different locations and times, electricity is generated using various sources with varying carbon emissions. Some sources, such as wind, solar, or hydroelectric, are clean, renewable sources that emit little carbon. Other fossil fuel sources emit varying amounts of carbon to produce electricity. For example, gas-burning power plants emit less carbon than coal-burning power plants.
 
@@ -40,9 +40,9 @@ Not all electricity is produced in the same way. In different locations and time
 
 ## Standard Unit of Measurement
 
-The standard unit of carbon intensity is gCO2eq/kWh or grams of carbon per kilowatt-hour.
+The standard unit of carbon intensity is gCO<sub>2</sub>eq/kWh or grams of carbon per kilowatt-hour.
 
-If your computer is plugged directly into a wind farm, then its electricity would have a carbon intensity of 0 gCO2eq/kWh since a wind farm emits no carbon to produce that electricity. However, most people can't plug directly into wind farms; instead, they plug into power grids supplied with electricity from various sources. 
+If your computer is plugged directly into a wind farm, then its electricity would have a carbon intensity of 0 gCO<sub>2</sub>eq/kWh since a wind farm emits no carbon to produce that electricity. However, most people can't plug directly into wind farms; instead, they plug into power grids supplied with electricity from various sources. 
 
 Once on a grid, you can't control which sources supply electricity; you are getting a mix of everything. So your carbon intensity will be a mix of all the current power sources in a grid, the lower carbon and the higher carbon sources.
 
@@ -80,7 +80,7 @@ Fossil-fueled power plants rarely scale down to 0. They have a minimum functioni
 
 [IMAGE] 
 
-The marginal carbon intensity will be 0 gCO2eq/kWh in these situations since we know that any new demand will match the renewable energy we are curtailing. 
+The marginal carbon intensity will be 0 gCO<sub>2</sub>eq/kWh in these situations since we know that any new demand will match the renewable energy we are curtailing. 
 
 
 <!-- ## Calculating Carbon Intensity
