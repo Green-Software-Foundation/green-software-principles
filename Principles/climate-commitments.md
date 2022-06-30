@@ -25,7 +25,7 @@ There are many ways to reduce emissions, so it's essential when discussing reduc
 
 ### Abatement / Carbon Elimination
 
-The [Science Based Targets Initiative](https://sciencebasedtargets.org/) refers to a mechanism called **abatement**. It means eliminating sources of CO2 emissions associated with a company's operations and its value chain so those emissions do not enter the atmosphere. This includes increasing energy efficiency to eliminate some of the emissions associated with energy generation.
+The [Science Based Targets Initiative](https://sciencebasedtargets.org/) refers to a mechanism called **abatement**. It means eliminating sources of CO<sub>2</sub> emissions associated with a company's operations and its value chain so those emissions do not enter the atmosphere. This includes increasing energy efficiency to eliminate some of the emissions associated with energy generation.
 
 It will be impossible to eliminate all emissions. There will always be some areas that can't be eliminated due to technological or economic constraints. To balance those residual emissions, we need to look at other mechanisms such as compensating and neutralizing emissions.
 
@@ -33,7 +33,7 @@ It will be impossible to eliminate all emissions. There will always be some area
 
 Compensations are actions that companies take to help society avoid or reduce emissions outside of their value chain. This includes direct investment in emission reduction projects by purchasing carbon credits on the Voluntary Carbon Market. This is essentially investing in other organizations' abatement projects.
 
-To offset emissions, one must purchase the equivalent volume of carbon credits to compensate for them (where 1 carbon credit corresponds to 1 tonne of CO2 absorbed or reduced). These projects range from environmental conservation activities, use of renewable energy sources to efforts to remove GHG.
+To offset emissions, one must purchase the equivalent volume of carbon credits to compensate for them (where 1 carbon credit corresponds to 1 tonne of CO<sub>2</sub> absorbed or reduced). These projects range from environmental conservation activities, use of renewable energy sources to efforts to remove GHG.
 Types of projects in the market:
 *	Reforestation and Conservation - Credits created based on carbon captured by new trees or carbon not released through protecting old trees. This is not the cheapest option but preferred due given its added benefit to protect the ecosystem and wildlife
 * Renewable Energy - These projects give a boost to the number of renewable energy sources available on the grid, decrease the reliance on fossil fuels and bring about socio economic benefits like creating jobs etc.
@@ -47,12 +47,12 @@ Carbon offsets should not be considered as a standalone action. Despite its bene
 
 ### Neutralizing / Carbon Removal
 
-Neutralizations are actions that companies take to remove carbon from the atmosphere within or beyond their value chain. Neutralizations refer to the removal and **permanent storage** of atmospheric carbon to counterbalance the effect of releasing CO2 into the atmosphere. This includes actions such as:
-*	Enhancing natural carbon sinks that remove CO2 from the atmosphere. For example, forest restoration since photosynthesis removes CO2 naturally. Forest expansion comes with its own challenges as it’s important to not impact the dynamics of farmland and food supply elsewhere. Modern farming methods can also prolong the time carbon remain stored in soil
+Neutralizations are actions that companies take to remove carbon from the atmosphere within or beyond their value chain. Neutralizations refer to the removal and **permanent storage** of atmospheric carbon to counterbalance the effect of releasing CO<sub>2</sub> into the atmosphere. This includes actions such as:
+*	Enhancing natural carbon sinks that remove CO<sub>2</sub> from the atmosphere. For example, forest restoration since photosynthesis removes CO<sub>2</sub> naturally. Forest expansion comes with its own challenges as it’s important to not impact the dynamics of farmland and food supply elsewhere. Modern farming methods can also prolong the time carbon remain stored in soil
 * Bio-energy with Carbon Capture and Storage is the process of using biomass for energy by capturing emissions before they are released back to the atmosphere and storing them either underground or in long-lived products like concrete. It complications though lie in its dependencies on the ideal conditions being met and accounting has to be right
-*	Direct Air Capture is the process of capturing CO2 from the air and storing it. This method removes excess carbon that has already been emitted directly from the atmosphere instead of capturing it at the source
+*	Direct Air Capture is the process of capturing CO<sub>2</sub> from the air and storing it. This method removes excess carbon that has already been emitted directly from the atmosphere instead of capturing it at the source
 *	Carbon Mineralization
-*	Ocean based concepts by restoring coastal and marine habitats. This will ensure CO2 are drawn from the air
+*	Ocean based concepts by restoring coastal and marine habitats. This will ensure CO<sub>2</sub> are drawn from the air
 
 The effectiveness of these methods are normally measured based on whether they can deliver carbon removal at the scale and speed needed. 
 
@@ -60,7 +60,7 @@ The effectiveness of these methods are normally measured based on whether they c
 
 When it comes to carbon removal projects, durability is a critical consideration. The durability of a project describes how long the carbon dioxide will be kept from the atmosphere.
 
-Short-term durability is up to 100 years, medium-term is 100 to 1,000 years, and long term is more than 1,000 years.
+Short-term durability is up to 100 years, medium-term is 100 to 1,000 years, and long-term is more than 1,000 years.
 
 Solutions that rely on Earth's natural carbon cycle have short-term durability, measured in decades. For example, forestry projects have a durability of 40 to 100 years.
 
@@ -85,7 +85,7 @@ Between carbon avoidance and carbon removal strategies, there are numerous debat
 
 Carbon-neutrality is defined by an internationally recognized standard: [PAS 2060](https://info.eco-act.com/hubfs/0%20-%20Downloads/PAS%202060/PAS%202060%20factsheet%20EN.pdf).
 
-To achieve carbon neutrality, an organization must measure its emissions. The sum total must be matched by the sum total of its emissions offsets through carbon reduction projects that reduce the amount of CO2 released into the atmosphere. This can include carbon removal projects (neutralizations) and carbon avoidance projects (compensations).
+To achieve carbon neutrality, an organization must measure its emissions. The sum total must be matched by the sum total of its emissions offsets through carbon reduction projects that reduce the amount of CO<sub>2</sub> released into the atmosphere. This can include carbon removal projects (neutralizations) and carbon avoidance projects (compensations).
 
 Although it does recommend an organization sets abatement targets, it doesn't demand any level of ambition. So to be considered carbon-neutral, an organization can just measure and offset without investing any resources in eliminating their carbon emissions.
 

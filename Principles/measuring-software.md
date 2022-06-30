@@ -51,7 +51,7 @@ A total is only one metric that describes the state of something. To make the ri
 
 Imagine a scenario where you are the leader of an organization and charged with reducing the emissions of your software. You take steps to measure the total emissions in Q1 as 34 tonnes. You made some investments into projects that eliminate emissions, and by Q2, the emissions have **increased** to 45 tonnes. Should you continue your investments in those projects or cancel them? Should you be fired or promoted?
 
-A total all by itself doesn't tell the whole story. We need other metrics to help describe what's going on. For example, if we looked at the carbon intensity as well as the carbon total, we might see another perspective on what happened. Your software product might have had a carbon intensity of 3.3g CO2e/User in Q1, and in Q2, this **reduced** to 2.9g CO2e/User.
+A total all by itself doesn't tell the whole story. We need other metrics to help describe what's going on. For example, if we looked at the carbon intensity as well as the carbon total, we might see another perspective on what happened. Your software product might have had a carbon intensity of 3.3g CO<sub>2</sub>eq/User in Q1, and in Q2, this **reduced** to 2.9g CO<sub>2</sub>eq/User.
 
 The total informed you that your organization's carbon emissions had increased overall and that might inform one set of decisions. The intensity informed you that your choices to eliminate emissions are working. It would be best to continue in that direction to gain even further reductions.
 

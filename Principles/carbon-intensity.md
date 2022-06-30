@@ -31,7 +31,7 @@ Do more when the electricity is cleaner and do less when the electricity is dirt
 
 ## Introduction
 
-The carbon intensity of electricity measures how much carbon (CO2eq) is emitted per kilowatt-hour of electricity consumed.
+The carbon intensity of electricity measures how much carbon (CO<sub>2</sub>eq) is emitted per kilowatt-hour of electricity consumed.
 
 Not all electricity is produced in the same way. In different locations and times, electricity is generated using various sources with varying carbon emissions. Some sources, such as wind, solar, or hydroelectric, are clean, renewable sources that emit little carbon. Other fossil fuel sources emit varying amounts of carbon to produce electricity. For example, gas-burning power plants emit less carbon than coal-burning power plants.
 
@@ -40,11 +40,11 @@ Not all electricity is produced in the same way. In different locations and time
 
 ## Standard Unit of Measurement
 
-The standard unit of carbon intensity is gCO2eq/kWh or grams of carbon per kilowatt-hour.
+The standard unit of carbon intensity is gCO<sub>2</sub>eq/kWh or grams of carbon per kilowatt-hour.
 
-If your computer is plugged directly into a wind farm, then its electricity would have a carbon intensity of 0 gCO2eq/kWh since a wind farm emits no carbon to produce that electricity. However, most people can't plug directly into wind farms; instead, they plug into power grids supplied with electricity from various sources. 
+If your computer is plugged directly into a wind farm, then its electricity would have a carbon intensity of about 0 gCO<sub>2</sub>eq/kWh since a wind farm emits no carbon to produce that electricity. However, most people can't plug directly into wind farms; instead, they plug into power grids supplied with electricity from various sources. 
 
-Once on a grid, you can't control which sources supply electricity; you are getting a mix of everything. So your carbon intensity will be a mix of all the current power sources in a grid, the lower carbon and the higher carbon sources.
+Once on a grid, you can't control which sources supply electricity; you are getting a mix of everything. Your carbon intensity will be based on all the current power sources in a grid, inclusive of both lower- and higher-carbon sources.
 
 
 ## Variability of Carbon Intensity
@@ -60,27 +60,25 @@ Once on a grid, you can't control which sources supply electricity; you are gett
 
 ## Balancing Supply and Demand
 
-Electricity demand varies during the day, and that demand needs to be met by supply. If a utility doesn't produce enough electricity to meet demand, there is a brownout. Suppose a utility produces more electricity than is required, then stop infrastructure burning out breakers trip, and we have blackouts. There needs to be a balance between the demand and supply of electricity at every moment. Who has responsibility for this differs between electricity grids, but it's the utility provider for simplicity.
+Electricity demand varies during the day, and that demand needs to be met by supply. If a utility doesn't produce enough electricity to meet demand, then we have a brownout. If instead a utility produces more electricity than is required and circuit breakers trip to protect our infrastructure, then we have a blackout. To keep the grid operational, there needs to be a balance between the demand and supply of electricity at every moment. Who has responsibility for this differs between electricity grids, but for simplicity we can assume it's the utility provider.
 
 
 ### Dispatchability & Curtailment
 
-Some of that supply can easily control the power it produces, e.g., a coal power plant can burn less coal; this is called **dispatchability**. However, some of that supply can't easily control the power it produces, e.g., a wind farm can't control how much the wind blows. So if it makes more electricity than is currently needed, that electricity is thrown away; this is called **curtailment**.
+Some energy sources can easily control the power they produce, e.g., a coal power plant can burn less coal; this is called **dispatchability**. However, some energy sources can't easily control the power they produce, e.g., a wind farm can't control how much the wind blows. So if it makes more electricity than is currently needed, that electricity is thrown away; this is called **curtailment**.
 
 
 ### Marginal Carbon Intensity
 
-If you choose to consume more energy, that energy comes from the marginal power plant. 
+If you were to turn on a light right now, or run an intensive piece of software, a specific power plant with additional or "marginal" capacity would have to output more energy to support you. So **marginal carbon intensity** is the carbon intensity of the particular power plant that ramps up to meet your needs.
 
-The marginal power plant is dispatchable; it can control the energy it outputs. Renewable plants cannot control the sun or the wind, so marginal power plants are often powered by fossil fuels.
-
-We have the average carbon intensity of all the energy in the grid at any moment. Marginal carbon intensity is the carbon intensity of the power plant that would have to ramp up to meet any new demand. If you were to turn on a light right now, a specific power plant would have to output more energy. So **marginal carbon intensity** is the carbon intensity of that particular power plant.
+A marginal power plant is dispatchable; it can control the energy it outputs. Renewable plants cannot control the sun or the wind, so marginal power plants are often powered by fossil fuels.
 
 Fossil-fueled power plants rarely scale down to 0. They have a minimum functioning threshold, and some don't scale at all; they are considered consistent always-on baseload. Because of this, we can sometimes reach the perverse scenario where we curtail (throw away) renewable energy while still consuming energy from fossil fuel power plants.
 
 [IMAGE] 
 
-The marginal carbon intensity will be 0 gCO2eq/kWh in these situations since we know that any new demand will match the renewable energy we are curtailing. 
+The marginal carbon intensity will be 0 gCO<sub>2</sub>eq/kWh in these situations since we know that any new demand will match the renewable energy we are curtailing. 
 
 
 <!-- ## Calculating Carbon Intensity
@@ -125,9 +123,9 @@ The above is highly oversimplified. Energy markets are some of the most complex 
 
 There is a global transformation happening right now. All around the world, electricity grids are changing from primarily burning fossil fuels to sourcing energy from renewable sources like wind and solar. This is one of our best hopes for meeting our global reduction targets. The question we need to ask ourselves as Green Software Practitioners is, "how can we help accelerate that transition?"
 
-The primary driver for the transition is economic rather than any sustainability target. Renewables are winning because they are cheaper and getting even cheaper over time. So to help accelerate the transition, we need to make renewable plants more profitable and fossil fuel plants less profitable. The best way to do that is to use more electricity when it's coming from renewable sources and less electricity when it's coming from higher carbon sources.
+The primary driver for the transition is economic rather than any sustainability target. Renewables are winning because they are cheaper and getting even cheaper over time. To help accelerate the transition, we need to make renewable plants more profitable and fossil fuel plants less profitable. The best way to do that is to use more electricity when it's coming from renewable sources and less electricity when it's coming from higher carbon sources.
 
-Carbon intensity is lower when more energy comes from lower-carbon sources and higher when it comes from higher carbon sources. 
+Carbon intensity is lower when more energy comes from lower-carbon sources and higher when it comes from higher-carbon sources. 
 
 > Using electricity when the carbon intensity is low is the best way to ensure investment flows to renewable plants and away from fossil fuel plants.
 
@@ -139,7 +137,7 @@ The idea of doing more when more energy comes from low carbon sources and doing 
 
 ### Demand Shifting
 
-One way to consume electricity with less carbon intensity is to do demand shifting. For example, suppose you can be flexible with when and where you run workloads. In that case, you can choose to consume electricity when the carbon intensity is less and pause when carbon intensity is high. For example, training a machine learning model at a different time or region where the carbon intensity is much lower.
+One way to consume electricity with less carbon intensity is via demand shifting. For example, suppose you can be flexible with when and where you run workloads. In that case, you can choose to consume electricity when the carbon intensity is less and pause when carbon intensity is high. For example, training a machine learning model at a different time or region where the carbon intensity is much lower.
 
 Studies show these actions can result in carbon reductions of 45% to 99% depending on the number of renewables powering the grid.
 
@@ -169,7 +167,7 @@ There are several real-world examples of carbon awareness implemented at scale:
 
 #### Google Carbon Aware Data Centres
 
-Google launched a project to make some of the cloud workloads carbon aware. The details of their methodology are in the paper XXXXX. To summarise, they predicted two things, tomorrow's carbon intensity, and tomorrow's workload. They then shaped large-scale workloads so more would happen when and where the carbon intensity is lowest, but in such a way that they could still handle the expected load. This resulted in X percent reduction in carbon emissions for their initial experiment in this space.
+Google launched a project to make some of the cloud workloads carbon aware. The details of their methodology are in the paper XXXXX. To summarise, they predicted two things: tomorrow's carbon intensity and tomorrow's workload. They then shaped large-scale workloads so more would happen when and where the carbon intensity is lowest, but in such a way that they could still handle the expected load. This resulted in X percent reduction in carbon emissions for their initial experiment in this space.
 
 
 #### Microsoft Carbon Aware Windows
@@ -185,8 +183,8 @@ Demand shifting is the strategy of moving computation to regions or times when t
 
 
 
-* If carbon intensity is low, increase the demand more in your applications.
-* If carbon intensity is high, decrease demand do less in your applications.
+* If carbon intensity is low, increase demand by doing more in your applications.
+* If carbon intensity is high, decrease demand by doing less in your applications.
 
 Demand shaping carbon-aware applications is all about the supply of carbon. When the carbon cost of running your application becomes high, shape the demand to match the supply of carbon. This can happen automatically, or the user can make a choice.
 
@@ -214,4 +212,4 @@ A third example is progressive enhancement with the web. The web experience impr
 
 ## Summary
 
-Demand shaping is related to a broader concept in sustainability, which is to reduce consumption. We can achieve a lot by becoming more efficient with resources, but we also need to consume less at some point. As Green Software Practitioners to be carbon-aware means perhaps when the carbon intensity is high, we consider canceling it instead of demand shifting compute. Reducing the demands of our application and the expectations of our end users.
+Demand shaping is related to a broader concept in sustainability, which is to reduce consumption. We can achieve a lot by becoming more efficient with resources, but we also need to consume less at some point. As Green Software Practitioners, to be carbon-aware means perhaps when the carbon intensity is high, we consider canceling it instead of demand shifting compute. Reducing the demands of our application and the expectations of our end users.

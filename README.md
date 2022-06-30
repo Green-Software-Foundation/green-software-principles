@@ -1,9 +1,9 @@
 # Principles of Green Software Engineering
 
 ## Scope
-The original Principles of Green Software Engineering located at https://principles.green was created in 2019. As the field of GSE has evolved the need to update the principles has also evolved.
+The original Principles of Green Software Engineering located at https://principles.green was created in 2019. As the field of Green Software Engineering (GSE) has evolved, the need to update the principles has become clear.
 
-Specifically there is a requirement to extend knowledge in the sections on carbon, electricity, carbon intensity and embodied carbon and add sections on neutralisations as well as update the measurement section to discuss the SCI.
+Specifically there is a requirement to: extend knowledge in the sections on carbon, electricity, carbon intensity and embodied carbon; add a section on neutralisations; and update the measurement section to discuss the SCI.
 
 Taking this training will give you enough information to:
 - Understand and contribute to discussions on the Software Carbon Intensity (SCI) Specification.
@@ -13,22 +13,26 @@ Taking this training will give you enough information to:
 
 ## Characteristics of this training
 
-- We assume the reader has no experience at all in sustainability
-- We assume the reader has an entry level understanding of computing. 
-- This training is generic, for everyone, any field, and sector, any technology. This is the 101 training everyone takes, future trainings might be created which are more specific e.g. cloud, but this training doesn't exclude anyone. It's for everyone, which means by necessity it has to be higher level and more generic.
+- We assume you have no experience at all in sustainability.
+- We assume you have an entry level understanding of computing. 
+- This is the generic 101 training that everyone takes. It is meant for anyone in any field or sector using any computing technology. While future trainings might be created to be more specific (e.g. cloud), this training doesn't exclude anyone and is, by necessity, higher level and more generic.
 
 
 ## Proposed differences to V1
 
-**Carbon** - Delve a deeper into the science of climate change, enough so that you can defend a challenge. The purpose of GSE is not to convince people of climate change, that's a fact. The intention of this section is to give confidence to the practitioner that if they were challenged, they could give a reasonable response.
+**Carbon** - Delve a deeper into the science of climate change so that you can defend the value of green software proposals. The purpose of GSE is not to convince people of climate change, but to provide you with the fundamentals necessary for a reasonable response to questions.
 
 **Electricity, Carbon Intensity and Embodied Carbon** - Talk more about how you can measure each and more applicable advice for ideas for reduction.
 
-**Networking** - Provide a more accurate model, what about streaming? Options for reducing network traffic (thinner APIs, low qual streaming etc...). Mobile vs. Fixed Line. Direct DC to DC, vs DC to Client.
+**Networking** - Provide an extended, more accurate model. Cover topics such as:
+* Streaming 
+* Options for reducing network traffic (e.g. thinner APIs, low-quality streaming)
+* Mobile vs. Fixed Line
+* Direct DC to DC vs DC to Client
 
-**Neutralisations** - New section, going into details about neutralisations, limitations of offsets, offsets vs. reductions. What is net-zero and carbon neutral, do offsets help or hinder investment into Green software.
+**Neutralisations** - Create a new section on the details of neutralisations, the limitations of offsets, and the differences between offsets and reductions. This section should explain terms such as net-zero and carbon neutral, as well as discuss how offsets help or hinder investment into Green Software.
 
-**Measurement** - Discussing the SCI.
+**Measurement** - Discuss the SCI.
 
 ## Sections
 
@@ -43,7 +47,7 @@ Proposed sections should be discussed as a public GH discussion, where the group
 - [Measurement](https://github.com/Green-Software-Foundation/principles/discussions/8)
 
 ## Appointments
-Chair Sarah Hsu - Goldman Sacs
+Chair Sarah Hsu - Goldman Sachs
 
 ## Copyright
 Innovation WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
