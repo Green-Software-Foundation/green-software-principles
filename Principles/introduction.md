@@ -22,3 +22,9 @@ Anyone involved in the process of building, deploying, or managing software.
 4. Hardware Efficiency: Use the least amount of embodied carbon possible.
 5. Climate Commitments: Understand the exact mechanism of the reduction.
 6. Measuring: What you can't measure, you can't improve.
+
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+  <a href="../README.md">← Previous section: README</a>
+  <span> | </span>
+  <a href="./carbon.md">→ Next section: Carbon</a>
+</div>
